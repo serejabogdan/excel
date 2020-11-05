@@ -6,7 +6,8 @@
     "node": true
   },
   "rules": {
-    "comma-dangle": "off"
+    "comma-dangle": "off",
+    "linebreak-style": ["error", "windows"]
   },
   "extends": ["eslint:recommended", "google"]
 }
